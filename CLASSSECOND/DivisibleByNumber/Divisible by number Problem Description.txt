@@ -1,0 +1,31 @@
+Problem Description
+Take an integer A as input. You have to tell whether A is divible by both 5 and 11 or not.
+
+Problem Constraints
+
+Input Format
+
+Output Format
+
+Example Input
+
+ 55 
+Input 2:
+
+ 22 
+</div>
+
+Example Output
+
+ 1 
+Output 2:
+
+ 0 
+</div>
+
+Example Explanation
+
+ 55 is divisible by both 5 (5 * 11 = 55) and 11 (11 * 5 = 55).
+Explanation 2:
+
+ 22 is divisble by 11 (11 * 2 = 22),but it is not divisible by 5.
